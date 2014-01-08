@@ -1,0 +1,1222 @@
+<resources>
+
+    <string name="app_name">Violet Flame Invocations</string>
+    <string name="toolbar">Bottom Toolbar</string>
+    <string name="menu_settings_one">About the Composer</string>
+    <string name="menu_settings_two">Introduction</string>
+    <string name="menu_settings_three">Other Publications</string>
+    <string name="title_activity_meditations">MeditationsActivity</string>
+    <string name="header">Main Heading on the top</string>
+    <string name="border">--------------------</string>
+    <string name="transparent">Transparent Border at the bottom</string>
+    <string name="forward_content_description">forward</string>
+    <string name="backward_content_description">backward</string>
+    <string name="random_content_description">random</string>
+    <string name="forward_button_text">forward</string>
+    <string name="backward_button_text">back</string>
+    <string name="bookmark_button_text">bookmark</string>
+    <string name="share_button_text">share</string>
+    <string name="random_button_text">random</string>
+    <string name="page1">I am the Violet Flame&lt;br /&gt;in me the Flame is in action.&lt;br /&gt;&lt;br /&gt;
+I am the Violet Flame&lt;br /&gt;to the Light alone I bow down.&lt;br /&gt;&lt;br /&gt;I am the Violet Flame&lt;br /&gt;I blaze like the Sun.&lt;br /&gt;
+&lt;br /&gt;I am the Light of God&lt;br /&gt;I shine forth ever, forever.&lt;br /&gt;&lt;br /&gt;I am the sacred Power of God.&lt;br /&gt;
+I am free.&lt;br /&gt;I free every one, at once!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page2">Oh Radiant Violet Flame!&lt;br /&gt; Come! Descend!&lt;br /&gt;Blaze through us.&lt;br /&gt;&lt;br /&gt;Oh Radiant Violet Flame! &lt;br /&gt;Come! Transmute!&lt;br /&gt;Transmute all Darkness to Light. &lt;br /&gt;&lt;br /&gt;
+Oh Radiant Violet Flame! &lt;br /&gt;Lead us. Lead us from Darkness to Light,&lt;br /&gt;
+Death to Immortality, Fear to Freedom!&lt;br /&gt;&lt;br /&gt;Oh Radiant Violet Flame!&lt;br /&gt;Come! Establish Your outpost of Love in us,&lt;br /&gt;
+Transmute and set Free!&lt;br /&gt;</string>
+    <string name="page3">Oh Spiral Flame of Radiant Violet Hue! Descend. Transmute.&lt;br /&gt;
+Transform to &lt;br /&gt;Set Free!&lt;br /&gt;&lt;br /&gt;Oh Spiral Flame of Radiant Violet Hue! Blaze forth in and around!&lt;br /&gt;Establish Order, Rhythm, Ritual!&lt;br /&gt;Set Free!&lt;br /&gt;&lt;br /&gt;Oh Spiral Flame of Radiant Violet Hue! Descend, reveal and resurrect&lt;br /&gt;
+the Planet, the Humanity!&lt;br /&gt;Set Free! Set Free!&lt;br /&gt;&lt;br /&gt;Oh Spiral Flame of Radiant Violet Hue! Descend! Bring forth the Mercy,&lt;br /&gt;the Love and the Grace of God!&lt;br /&gt; Set Free! Set Free! Set Free!&lt;br /&gt;</string>
+    <string name="page4">Oh Venerable Violet Flame !&lt;br /&gt;&lt;br /&gt;
+To Thy Light we bow.&lt;br /&gt;&lt;br /&gt;
+Enter into us and&lt;br /&gt;
+fill us through and through&lt;br /&gt;
+until You exist as I AM.&lt;br /&gt;&lt;br /&gt;
+I AM THAT I AM.&lt;br /&gt;</string>
+    <string name="page5">Oh Violet Flame of Mercy!&lt;br /&gt;&lt;br /&gt;
+Expand us by Your Presence.&lt;br /&gt;&lt;br /&gt;
+Transmute the ignorance to Knowledge in us.&lt;br /&gt;&lt;br /&gt;
+Blaze through all our deeds.&lt;br /&gt;&lt;br /&gt;
+Sweep the Earth and the earthy by Your&lt;br /&gt;
+Power, Mercy, Forgiveness and Presence!&lt;br /&gt;&lt;br /&gt;
+Oh Merciful Flame of the Violet Hue!&lt;br /&gt;&lt;br /&gt;
+Be Merciful!&lt;br /&gt;
+Be Merciful!&lt;br /&gt;
+Be Merciful!&lt;br /&gt;</string>
+    <string name="page6">Oh Victorious Violet Flame!&lt;br /&gt;
+We pledge to live, move and have our &lt;br /&gt;
+being within Your freedom!&lt;br /&gt;&lt;br /&gt;
+Be merciful to cleanse us, the humanity&lt;br /&gt;
+from all ignorance by Your Power, nine-fold
+and Free us!&lt;br /&gt;&lt;br /&gt;
+Set Free! Set Free! Set Free!&lt;br /&gt;
+Oh Victorious Violet Flame,&lt;br /&gt;&lt;br /&gt;
+Glory to You!&lt;br /&gt;
+Glory to You!&lt;br /&gt;
+Glory to You!&lt;br /&gt;</string>
+    <string name="page7">Oh Saint Germain!&lt;br /&gt;
+You are the Mighty Victorious Presence&lt;br /&gt;
+of God!&lt;br /&gt;&lt;br /&gt;
+You are the Venerable Violet Flame&lt;br /&gt;
+of Cosmic Freedom!&lt;br /&gt;&lt;br /&gt;
+You are the God that bestows Freedom&lt;br /&gt;
+on Earth with Your Violet Ray!&lt;br /&gt;&lt;br /&gt;
+You are the Angel of Forgiveness,&lt;br /&gt;
+of Mercy, of Transmutation and of Freedom.&lt;br /&gt;&lt;br /&gt;
+Take dominion Now&lt;br /&gt;
+in all of us, Your servants!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page8">In the name of the Great Architect&lt;br /&gt;
+of the Universe
+and the Mighty Victorious Presence of God
+standing in the Light of I AM, we invoke:&lt;br /&gt;&lt;br /&gt;
+The Beloved Mitra, Varuna and Aryama,&lt;br /&gt;
+the Great Central Sun,&lt;br /&gt;
+the Alchemist Narada (St. Michael),&lt;br /&gt;
+the Seven Cosmic Seers,&lt;br /&gt;
+the Four Kumaras,&lt;br /&gt;
+the Sublime White Brotherhood,&lt;br /&gt;
+the Brotherhood of Victorious Violet Flame,&lt;br /&gt;
+with the Merciful St. Germain,&lt;br /&gt;
+expand the Violet Flame in our Hearts.&lt;br /&gt;&lt;br /&gt;
+Purify our four lower vehicles (bodies),&lt;br /&gt;
+transmute all misqualified energy&lt;br /&gt;
+and set the Earth and us Free!&lt;br /&gt;</string>
+    <string name="page9">Oh Violet Flame of Rhythm,&lt;br /&gt;
+oh Violet Flame of Dance and Song,&lt;br /&gt;&lt;br /&gt;
+sing &amp; dance rhythmically to release the imprisoned life!&lt;br /&gt;&lt;br /&gt;
+We, the prisoners of life find no way out.&lt;br /&gt;&lt;br /&gt;
+We, the prisoners reach not Your heights,
+tune not to Your rhythm.&lt;br /&gt;&lt;br /&gt;
+We, the prisoners of matter,&lt;br /&gt;
+nevertheless sing and dance,&lt;br /&gt;
+though not rhythmically.&lt;br /&gt;&lt;br /&gt;
+Descend, descend, descend!&lt;br /&gt;&lt;br /&gt;
+Release, release, release!&lt;br /&gt;&lt;br /&gt;
+Oh Violet Flame of Rhythm.&lt;br /&gt;</string>
+    <string name="page10">Oh Violet Flame of Twilight!&lt;br /&gt;&lt;br /&gt;
+You are a gift of God, most high,&lt;br /&gt;
+You are presented by Him to us during twilight.&lt;br /&gt;&lt;br /&gt;
+You are the door,&lt;br /&gt;
+the door to liberation.&lt;br /&gt;
+You are present in the twilights&lt;br /&gt;
+of morning and evening.&lt;br /&gt;
+Your Flame leads us unto the world of freedom.&lt;br /&gt;&lt;br /&gt;
+We bow down to You,&lt;br /&gt;
+to the door of the twilight.&lt;br /&gt;&lt;br /&gt;
+Thank You, thank You, thank You,&lt;br /&gt;
+for the Initiation.&lt;br /&gt;</string>
+    <string name="page11">The Flame of Twilight is the Flame of Violet.&lt;br /&gt;&lt;br /&gt;
+The Flame Violet blesses, blesses gently&lt;br /&gt;
+during the twilights.&lt;br /&gt;&lt;br /&gt;
+The Flame Violet touches gently&lt;br /&gt;
+during the twilights.&lt;br /&gt;&lt;br /&gt;
+The Flame Violet enters gently&lt;br /&gt;
+into the oriented ones.&lt;br /&gt;&lt;br /&gt;
+We orient and wait ardently to perceive,&lt;br /&gt;
+to receive and to assimilate the Flame Violet&lt;br /&gt;&lt;br /&gt;
+and – to fulfil our part in the Plan!&lt;br /&gt;
+May that be our daily plan.&lt;br /&gt;</string>
+    <string name="page12">Oh gentle Flame of Violet Hue,&lt;br /&gt;
+we perceive Your friendly touch of the dawn.&lt;br /&gt;&lt;br /&gt;
+The angelic touch is seen&lt;br /&gt;
+with flowers and bowers.&lt;br /&gt;&lt;br /&gt;
+The angelic touch is seen&lt;br /&gt;
+over the mountain and in the valley.&lt;br /&gt;&lt;br /&gt;
+The angelic touch is seen&lt;br /&gt;
+with the tree and the field.&lt;br /&gt;&lt;br /&gt;
+You touch all at the dawn unfailingly.&lt;br /&gt;
+You are the early friend of the day!&lt;br /&gt;&lt;br /&gt;
+Thank You!&lt;br /&gt;
+Thank You!&lt;br /&gt;
+Thank You!&lt;br /&gt;</string>
+    <string name="page13">Oh blessed Servant of God,&lt;br /&gt;
+of men, of earth and of elements.&lt;br /&gt;
+Oh blessed gentle Flame of Twilight,&lt;br /&gt;
+of Rhythm, of Song and Dance,&lt;br /&gt;
+of Mercy and Violet &amp; Victory.&lt;br /&gt;
+Oh blessed Saint Germain !&lt;br /&gt;&lt;br /&gt;
+We offer ourselves unto You,&lt;br /&gt;
+to the Hierarchy and to the Lord.&lt;br /&gt;
+We pledge to serve as You serve the God,&lt;br /&gt;
+the men, the earth and the elements.&lt;br /&gt;
+We pledge to serve with joy, with love,&lt;br /&gt;
+with patience and with tolerance.&lt;br /&gt;
+We pledge to serve the big and the small&lt;br /&gt;
+giving all that we are given.&lt;br /&gt;&lt;br /&gt;
+We offer,&lt;br /&gt;
+we pledge,&lt;br /&gt;
+we pledge to offer.&lt;br /&gt;&lt;br /&gt;
+We salute Thee!&lt;br /&gt;
+We salute Thee!&lt;br /&gt;
+We salute Thee!&lt;br /&gt;&lt;br /&gt;
+Liberate all,&lt;br /&gt;
+the beings of the planet,&lt;br /&gt;
+the prisoners.&lt;br /&gt;&lt;br /&gt;
+Liberate!&lt;br /&gt;
+Liberate!&lt;br /&gt;
+Liberate!&lt;br /&gt;</string>
+    <string name="page14">I am in the heart.&lt;br /&gt;
+I am in the heart of earth.&lt;br /&gt;
+I am in the heart of mountain and the rock.&lt;br /&gt;
+I am in the heart of river and the stream.&lt;br /&gt;
+I am in the heart of rain and the fields.&lt;br /&gt;
+I am in the heart of men, animals and the plants.&lt;br /&gt;
+I am in the heart of the flying birds.&lt;br /&gt;
+I am in the heart of the elements.&lt;br /&gt;
+I am in the heart of the elementals.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+I am the pulsating Consciousness.&lt;br /&gt;
+I am the sound AUM.&lt;br /&gt;
+I AM THAT, THAT I AM.&lt;br /&gt;
+I AM THAT I AM.&lt;br /&gt;&lt;br /&gt;
+&lt;div align=&quot;right&quot;&gt;
+Count St. Germain
+&lt;/div&gt;
+</string>
+    <string name="page15">May the foundation of the Temple most holy
+be strengthened.&lt;br /&gt;
+May the Temple most holy&lt;br /&gt;
+be cleansed of impurities at all the three levels.&lt;br /&gt;
+May the image of God, the son,&lt;br /&gt;
+be restored to His original glory and splendour.&lt;br /&gt;
+May the Temple blaze forth&lt;br /&gt;
+with colours of rainbow.&lt;br /&gt;&lt;br /&gt;
+May the Holy of the Holies&lt;br /&gt;
+permeate to fulfil&lt;br /&gt;
+all around, all round!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+AUM, AUM, AUM.&lt;br /&gt;</string>
+    <string name="page16">We seek justice, Master!&lt;br /&gt;
+We seek justice for mankind.&lt;br /&gt;
+Social justice – justice to all we seek,&lt;br /&gt;
+we seek.&lt;br /&gt;&lt;br /&gt;
+Justice that upholds the dignity of all.&lt;br /&gt;
+Justice that upholds merit and&lt;br /&gt;
+justice that unveils love.&lt;br /&gt;
+We seek, oh Master CSG.&lt;br /&gt;&lt;br /&gt;
+Justice that synthesises all life.&lt;br /&gt;
+Justice to plant, animal and to planet.&lt;br /&gt;
+We seek, oh Master CVV,&lt;br /&gt;
+justice we seek,&lt;br /&gt;
+justice we seek.&lt;br /&gt;</string>
+    <string name="page17">May the Hierarchy transform&lt;br /&gt;
+by their touch of Love&lt;br /&gt;
+this humanity from power to Love.&lt;br /&gt;
+May the peers of power and the places of power
+experience the magic wand of Love.&lt;br /&gt;&lt;br /&gt;
+The Love demonstrated by Gautama,&lt;br /&gt;
+the Buddha.&lt;br /&gt;
+The Love transmitted by Jesus,&lt;br /&gt;
+the Christ and&lt;br /&gt;
+the Love diffused by the Presence of Krishna,
+the Lord.&lt;br /&gt;&lt;br /&gt;
+May Love prevail over power.&lt;br /&gt;
+May the Light of Violet unveil the Era of Love.&lt;br /&gt;
+May the Master CSG be the direct Magician
+on the physical plane.&lt;br /&gt;</string>
+    <string name="page18">Oh venerable Violet Flame!&lt;br /&gt;&lt;br /&gt;
+Seal us in the Light of the Count St. Germain.&lt;br /&gt;
+Seal us in the Light of Kalapa and Srávasti.&lt;br /&gt;&lt;br /&gt;
+Link us into the Cave Temples of Blue Mountains, Himalayas, Alps, Rockys and Andes.&lt;br /&gt;&lt;br /&gt;
+Oh venerable Violet Flame,&lt;br /&gt;
+be merciful to bestow&lt;br /&gt;
+the touch of the Light of Buddha,&lt;br /&gt;
+the Light of Bodhisattva,&lt;br /&gt;
+the Light of Lord Krishna&lt;br /&gt;
+and settle us in the Synthesis of CVV.&lt;br /&gt;&lt;br /&gt;
+Lift up!&lt;br /&gt;
+Lift up!&lt;br /&gt;
+Lift up!&lt;br /&gt;</string>
+    <string name="page19">Oh gentle Flame of Violet Hue.&lt;br /&gt;&lt;br /&gt;
+You are the Flame of the 7th Ray.&lt;br /&gt;
+You are the fiery Tongue Seven.&lt;br /&gt;
+You are the Initiator into the subtle world.&lt;br /&gt;&lt;br /&gt;
+Initiate us;&lt;br /&gt;
+Initiate the Kundalini;&lt;br /&gt;
+Introduce us to the subtle world.&lt;br /&gt;&lt;br /&gt;
+We offer ourselves.&lt;br /&gt;
+We offer ourselves unconditionally.&lt;br /&gt;
+We offer ourselves totally.&lt;br /&gt;&lt;br /&gt;
+We seek admittance!&lt;br /&gt;
+Admittance!&lt;br /&gt;
+Admittance!&lt;br /&gt;</string>
+    <string name="page20">Inflame us, oh Violet Flame.&lt;br /&gt;
+In-flame us.&lt;br /&gt;&lt;br /&gt;
+We are un-flamed by material,&lt;br /&gt;
+by egoistic personalities,&lt;br /&gt;
+by our ignorance.&lt;br /&gt;
+Inflame us, please !&lt;br /&gt;&lt;br /&gt;
+We are debilitated by our desires.&lt;br /&gt;
+We are weak to invoke You.&lt;br /&gt;
+Our invocations cannot reach You.&lt;br /&gt;
+But You can reach us.&lt;br /&gt;&lt;br /&gt;
+Reach us! Bless us! Strengthen us!&lt;br /&gt;
+In-flame, ignite, initiate.&lt;br /&gt;&lt;br /&gt;
+We are Your infants, the ignorant ones!&lt;br /&gt;</string>
+    <string name="page21">We summon the Flame Violet.&lt;br /&gt;
+We are the sunken slaves.&lt;br /&gt;
+We summon.&lt;br /&gt;&lt;br /&gt;
+Save us, oh Violet Flame.&lt;br /&gt;
+Enlighten us and alleviate us&lt;br /&gt;
+from the sorrow of darkness.&lt;br /&gt;&lt;br /&gt;
+Save us from ignorance.&lt;br /&gt;
+Set our sail unto Your Violet Springs.&lt;br /&gt;&lt;br /&gt;
+May the Springs of Violet set us&lt;br /&gt;
+unto the supermundane states of splendour.&lt;br /&gt;
+We summon You to salute Thee!&lt;br /&gt;</string>
+    <string name="page22">You hold the Holy Grail of Hierarchs,&lt;br /&gt;
+You hold the Holy Grail of Heavens.&lt;br /&gt;&lt;br /&gt;
+Holy Grail! Holy Grail! Holy Grail!&lt;br /&gt;
+Shed the Flame of Harmony,&lt;br /&gt;
+shed the Flame Violet.&lt;br /&gt;
+Send the Saint, who is also the Count.&lt;br /&gt;
+Send Lord Germain, the Saint and the Count,
+who is germane to humanity.&lt;br /&gt;&lt;br /&gt;
+Send the Saint, Count Germain&lt;br /&gt;
+to liberate us.&lt;br /&gt;&lt;br /&gt;
+Holy Grail! Holy Grail!&lt;br /&gt;
+We bow down in homage!&lt;br /&gt;</string>
+    <string name="page23">Master Saint Germain,&lt;br /&gt;
+You are the Master of Victorious Violet Flame!&lt;br /&gt;&lt;br /&gt;
+You are the Light of Scorpio that leads us
+unto the Golden Light of Sagittarius.&lt;br /&gt;&lt;br /&gt;
+You open the doors for us,&lt;br /&gt;
+from darkness to light.&lt;br /&gt;
+From slumber to awakening.&lt;br /&gt;
+From illusion to reality.&lt;br /&gt;&lt;br /&gt;
+You are the Guardian Angel&lt;br /&gt;
+that guards the gates of Temple Divine.&lt;br /&gt;&lt;br /&gt;
+Guide us!&lt;br /&gt;
+Guide us!&lt;br /&gt;
+Guide us!&lt;br /&gt;</string>
+    <string name="page24">Darkness in death.&lt;br /&gt;
+Violet Flame is the birth after death –&lt;br /&gt;
+the 2nd birth.&lt;br /&gt;&lt;br /&gt;
+Lead us, oh Violet Flame,&lt;br /&gt;
+through death to birth –&lt;br /&gt;
+birth into Light.&lt;br /&gt;&lt;br /&gt;
+Birth in darkness we suffered,&lt;br /&gt;
+suffer even now.&lt;br /&gt;&lt;br /&gt;
+Birth in Light through death –&lt;br /&gt;
+through conscious dying – we seek !&lt;br /&gt;&lt;br /&gt;
+We seek Transcendence!&lt;br /&gt;
+We seek Liberation from death and birth.&lt;br /&gt;</string>
+    <string name="page25">Oh Indomitable Violet Flame,&lt;br /&gt;
+You are death to death.&lt;br /&gt;&lt;br /&gt;
+You are the Liberator&lt;br /&gt;
+that unties the tie to the gross physical.&lt;br /&gt;&lt;br /&gt;
+You are the One&lt;br /&gt;
+that releases the humanity&lt;br /&gt;
+from the dross of the gross !&lt;br /&gt;&lt;br /&gt;
+You let us fly into the subtle.&lt;br /&gt;
+We pray!&lt;br /&gt;&lt;br /&gt;
+We let ourselves down into the dross.&lt;br /&gt;
+You let us out from the gross.&lt;br /&gt;&lt;br /&gt;
+We seek unto You.&lt;br /&gt;
+We pray!&lt;br /&gt;</string>
+    <string name="page26">From death to immortality, we are told,&lt;br /&gt;
+humanity needs to pass.&lt;br /&gt;&lt;br /&gt;
+Humanity meets death again and again.&lt;br /&gt;
+Humanity hits death and birth again and again.&lt;br /&gt;
+It sees not the door!&lt;br /&gt;&lt;br /&gt;
+The door of Violet is seen not.&lt;br /&gt;
+The door of Violet remains hidden!&lt;br /&gt;&lt;br /&gt;
+Synthesis enables the vision, says CVV.&lt;br /&gt;
+Bestow vision, please!&lt;br /&gt;&lt;br /&gt;
+Sight is not vision, we realise.&lt;br /&gt;</string>
+    <string name="page27">We see not Truth!&lt;br /&gt;&lt;br /&gt;
+What we see, we say is the Truth,&lt;br /&gt;
+the only Truth.&lt;br /&gt;&lt;br /&gt;
+What we see not, we say is the untruth.&lt;br /&gt;
+But our sight carries no Wisdom nor Vision.&lt;br /&gt;&lt;br /&gt;
+Perhaps, what we see what we see not,&lt;br /&gt;
+but together is the Truth, the Synthesis.&lt;br /&gt;&lt;br /&gt;
+Oh Violet Flame of gentle Nature,&lt;br /&gt;
+lead us into that Nature of Synthesis&lt;br /&gt;
+where all is One and One is all.&lt;br /&gt;</string>
+    <string name="page28">Oh venerable Master of Synthesis – CVV.&lt;br /&gt;
+Lead us unto Synthesis.&lt;br /&gt;&lt;br /&gt;
+The Golden Middle, the Synthesis,&lt;br /&gt;
+into which the pairs disappear.&lt;br /&gt;&lt;br /&gt;
+We are the despaired ones&lt;br /&gt;
+that cannot dissolve the pairs.&lt;br /&gt;&lt;br /&gt;
+We are polarised&lt;br /&gt;
+either to the right or the left.&lt;br /&gt;&lt;br /&gt;
+We are polarised&lt;br /&gt;
+either to the North or the South.&lt;br /&gt;&lt;br /&gt;
+We miss the Middle!&lt;br /&gt;&lt;br /&gt;
+We are dismissed,&lt;br /&gt;
+for we frequently miss the Middle.&lt;br /&gt;&lt;br /&gt;
+The Middle, the Synthesis, the Third Eye,&lt;br /&gt;
+is the way out, says Yoga.&lt;br /&gt;&lt;br /&gt;
+Bestow Your Yoga of Synthesis,&lt;br /&gt;
+Oh Master.&lt;br /&gt;&lt;br /&gt;
+Master CVV Namaskaram.&lt;br /&gt;
+Master CSG Namaskaram.&lt;br /&gt;
+Master DK Namaskaram.&lt;br /&gt;
+Master Namaskaram.&lt;br /&gt;</string>
+    <string name="page29">Viewpoints are not Vision!&lt;br /&gt;
+Vision includes all viewpoints.&lt;br /&gt;&lt;br /&gt;
+Viewpoints are the bricks,&lt;br /&gt;
+Vision is the Temple.&lt;br /&gt;&lt;br /&gt;
+Pool the bricks and&lt;br /&gt;
+build the Temple of Truth.&lt;br /&gt;&lt;br /&gt;
+A brick denied&lt;br /&gt;
+delays the building.&lt;br /&gt;&lt;br /&gt;
+The Temple remains unbuilt.&lt;br /&gt;
+Such is the Key – the Master CSG.&lt;br /&gt;</string>
+    <string name="page30">Beloved Saint! Beloved Saint, Saint Germain!&lt;br /&gt;&lt;br /&gt;
+Blaze Thy Fire,&lt;br /&gt;
+blaze Thy Flame –&lt;br /&gt;
+the Flame of Freedom.&lt;br /&gt;&lt;br /&gt;
+We invoke You and Thy Flame&lt;br /&gt;
+to cut loose and set free!&lt;br /&gt;
+Set free, let us free,&lt;br /&gt;
+the captive ones!&lt;br /&gt;&lt;br /&gt;
+May Thy Freedom Flame bring forth&lt;br /&gt;
+the needed purity!&lt;br /&gt;
+Command us to freedom.&lt;br /&gt;
+Command us to march.&lt;br /&gt;
+March through the Portals of Violet,&lt;br /&gt;
+Golden and Blue Flame.&lt;br /&gt;&lt;br /&gt;
+Restore us to Sun, as we are sons of God!&lt;br /&gt;</string>
+    <string name="page31">We are sons of Sun, sons of God,&lt;br /&gt;
+but fallen!&lt;br /&gt;
+We are the fallen ones,&lt;br /&gt;
+fallen deep down.&lt;br /&gt;&lt;br /&gt;
+We seek Your help.&lt;br /&gt;
+We seek it desperately.&lt;br /&gt;&lt;br /&gt;
+Respond, respond,&lt;br /&gt;
+respond oh Violet Flame!&lt;br /&gt;
+Respond to our desperate call.&lt;br /&gt;&lt;br /&gt;
+Save us, oh Saint !&lt;br /&gt;</string>
+    <string name="page32">Violet Flame!&lt;br /&gt;
+Violet Flame,&lt;br /&gt;
+verily and verily,&lt;br /&gt;
+You are the valiant One,&lt;br /&gt;
+volunteer valiantly&lt;br /&gt;
+to unveil the veil&lt;br /&gt;
+and set the sail onto the Path.&lt;br /&gt;</string>
+    <string name="page33">Oh Violet Flame of Radiance!&lt;br /&gt;
+Charge the earth, charge the human!&lt;br /&gt;&lt;br /&gt;
+May Thy Light of Wisdom&lt;br /&gt;
+regulate and govern our desire.&lt;br /&gt;&lt;br /&gt;
+May the fears be overcome&lt;br /&gt;
+and triumph prevail.&lt;br /&gt;&lt;br /&gt;
+Our trust in You&lt;br /&gt;
+and faith in Your Power&lt;br /&gt;
+lead us by the lighted ways.&lt;br /&gt;&lt;br /&gt;
+The evil ways be transformed&lt;br /&gt;
+into the ways of Goodwill&lt;br /&gt;
+by Thy will.&lt;br /&gt;&lt;br /&gt;
+May we taste the power,&lt;br /&gt;
+Thy Power of Love and&lt;br /&gt;
+Thy Strength of Wisdom.&lt;br /&gt;&lt;br /&gt;
+Set free the captives, Captain.&lt;br /&gt;
+March us unto freedom.&lt;br /&gt;
+Oh Violet Flame of Radiance!&lt;br /&gt;</string>
+    <string name="page34">We bow down to the Wisdom of the East.&lt;br /&gt;
+We bow down to the Love of the South.&lt;br /&gt;
+We bow down to the Strength of the West.&lt;br /&gt;
+We bow down to the Will of the North.&lt;br /&gt;
+We bow down to the Headlight Chintamani above.&lt;br /&gt;
+We bow down to the great Guarding Dog below.&lt;br /&gt;
+We bow down to the Lord of I AM, the centre.&lt;br /&gt;&lt;br /&gt;
+May we be raised.&lt;br /&gt;
+May we be raised.&lt;br /&gt;
+May we be raised,&lt;br /&gt;
+to the Kings of Beauty!&lt;br /&gt;</string>
+    <string name="page35">Violet Flame, Violet Flame!&lt;br /&gt;
+Lift us unto Your Fame.&lt;br /&gt;&lt;br /&gt;
+Violet Flame, Violet Flame!&lt;br /&gt;
+we perceive Your Purple and Pink.&lt;br /&gt;&lt;br /&gt;
+Violet Flame, Violet Flame!&lt;br /&gt;
+Enflame us into Triple Flame.&lt;br /&gt;&lt;br /&gt;
+Purple, Pink, flash thro’&lt;br /&gt;
+that we may think of God thro’ and thro’.&lt;br /&gt;&lt;br /&gt;
+Purple Pink&lt;br /&gt;
+help us to drink the electric Hue&lt;br /&gt;
+to think, speak, act,&lt;br /&gt;
+to sink in Love and Light.&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page36">I am a pillar of Violet Flame.&lt;br /&gt;
+I am a pattern of the Divine.&lt;br /&gt;
+I am THAT, THAT I AM&lt;br /&gt;
+but – I am in my reflection.&lt;br /&gt;&lt;br /&gt;
+I am deflected from my purpose.&lt;br /&gt;
+I am sunk in ignorance, egoism and desire.&lt;br /&gt;&lt;br /&gt;
+I am nevertheless THAT I AM.&lt;br /&gt;
+I am the Son of God.&lt;br /&gt;</string>
+    <string name="page37">Forgive us Violet Flame, forgive us.&lt;br /&gt;
+Forgive the violated ones, forgive please.&lt;br /&gt;
+Forgive us for the trespass and transgression.&lt;br /&gt;&lt;br /&gt;
+Forgive us the coveted culprits&lt;br /&gt;
+that ignored the covenants.&lt;br /&gt;
+Forgive us for violating&lt;br /&gt;
+the code and the commandment.&lt;br /&gt;&lt;br /&gt;
+Violet Flame, Violet Flame,&lt;br /&gt;
+You are the transmuting Flame.&lt;br /&gt;
+Forgive and elevate us, please!&lt;br /&gt;</string>
+    <string name="page38">Violet, Pink, Purple,&lt;br /&gt;
+You are the Triple.&lt;br /&gt;&lt;br /&gt;
+Enfold and hold the crippled,&lt;br /&gt;
+we are but Your people,&lt;br /&gt;
+though long for the apple.&lt;br /&gt;
+Enfold us! Hold us.&lt;br /&gt;&lt;br /&gt;
+The apples of desire cripple.&lt;br /&gt;
+We know not this bubble.&lt;br /&gt;
+We are but Your pupil.&lt;br /&gt;
+Enfold us! Hold us.&lt;br /&gt;&lt;br /&gt;
+Fold us in Your triple.&lt;br /&gt;
+Oh gentle Violet, Pink and Purple.&lt;br /&gt;
+Fold us! Hold us! Enfold us!&lt;br /&gt;</string>
+    <string name="page39">May the Will of Violet pass through us.&lt;br /&gt;
+May the Love of Pink permeate us.&lt;br /&gt;
+May the Purple purposes fulfil us.&lt;br /&gt;&lt;br /&gt;
+Flash through, flash through.&lt;br /&gt;
+Blaze through, blaze through.&lt;br /&gt;&lt;br /&gt;
+Reveal to us and seal us&lt;br /&gt;
+by the Golden Light of I AM.&lt;br /&gt;&lt;br /&gt;
+Violet, Pink and Purple lead us&lt;br /&gt;
+unto the Golden Light of I AM.&lt;br /&gt;&lt;br /&gt;
+We bow down in devotion.&lt;br /&gt;</string>
+    <string name="page40">Violet, Light!&lt;br /&gt;
+Violet Light!&lt;br /&gt;
+You are the blessed being bright.&lt;br /&gt;
+Lead us unto Your Light.&lt;br /&gt;
+Help us to set ourselves right.&lt;br /&gt;&lt;br /&gt;
+Stabilise our being by Your Might,&lt;br /&gt;
+Violet Light! Violet Light!&lt;br /&gt;
+You are the bright mighty Light&lt;br /&gt;
+of noble height, of insight!&lt;br /&gt;</string>
+    <string name="page41">Oh blessed Violet Flame’s Master!&lt;br /&gt;
+Save us from all the disaster.&lt;br /&gt;
+Lead us unto Your realm faster.&lt;br /&gt;
+Our heads are reeling&lt;br /&gt;
+by time’s roller-coaster.&lt;br /&gt;&lt;br /&gt;
+Hold us in Your loving and&lt;br /&gt;
+comforting fold, Master!&lt;br /&gt;&lt;br /&gt;
+Oh blessed Violet Flame’s Master!&lt;br /&gt;</string>
+    <string name="page42">Cream of our life is melting.&lt;br /&gt;
+Dream of our life is dissolving.&lt;br /&gt;
+Stream of love is feebling.&lt;br /&gt;
+‘Hreem’ and ‘Sreem’ we hold on to,&lt;br /&gt;
+to reframe in these times of defame.&lt;br /&gt;&lt;br /&gt;
+Help us, hold us and enfold us&lt;br /&gt;
+in Your Pink, Purple, Violet Chamber.&lt;br /&gt;
+Oh Master, Count&amp; Saint!&lt;br /&gt;</string>
+    <string name="page43">I AM THAT I AM.&lt;br /&gt;
+THAT is the Father,&lt;br /&gt;
+I AM the Son.&lt;br /&gt;&lt;br /&gt;
+I AM without THAT,&lt;br /&gt;
+tree without fruit,&lt;br /&gt;
+flower without fragrance&lt;br /&gt;
+are but unworthy.&lt;br /&gt;&lt;br /&gt;
+That I AM is our song.&lt;br /&gt;
+That I AM is our salvation.&lt;br /&gt;
+SOHAM! SOHAM! SOHAM!&lt;br /&gt;&lt;br /&gt;
+That I AM is heart’s trumpet.&lt;br /&gt;
+That I AM is truth perfect.&lt;br /&gt;
+That I AM is life’s pulsation.&lt;br /&gt;
+That I AM is our eternal salvation.&lt;br /&gt;&lt;br /&gt;
+I AM THAT I AM!&lt;br /&gt;</string>
+    <string name="page44">I am in the Pillar of Seven Flames.&lt;br /&gt;
+I exit into world through Violet Flame&lt;br /&gt;
+and enter back through Violet Flame.&lt;br /&gt;&lt;br /&gt;
+Violet Flame! Violet Flame!&lt;br /&gt;
+Leave me not&lt;br /&gt;
+as I exit into the world and&lt;br /&gt;
+work for God’s Plan.&lt;br /&gt;&lt;br /&gt;
+Hold me firm! Hold me firm!&lt;br /&gt;
+I pray that I may stay in Your fold&lt;br /&gt;
+even while in the world.&lt;br /&gt;&lt;br /&gt;
+Violet Flame! Violet Flame!&lt;br /&gt;
+You are my hold.&lt;br /&gt;
+I am in Your fold&lt;br /&gt;
+I do acts of the bold.&lt;br /&gt;</string>
+    <string name="page45">Oh Divine Door Violet.&lt;br /&gt;
+Keep Your door subtly unshut&lt;br /&gt;
+to pass in and to pass out.&lt;br /&gt;&lt;br /&gt;
+Enough, if subtly unshut,&lt;br /&gt;
+tough, if it is bolted and shut.&lt;br /&gt;&lt;br /&gt;
+Oh Joseph, we too deserve to be&lt;br /&gt;
+Your students, students of Violet.&lt;br /&gt;</string>
+    <string name="page46">I am in You&lt;br /&gt;
+You are in me.&lt;br /&gt;&lt;br /&gt;
+Staying in You,&lt;br /&gt;
+Breathing in You,&lt;br /&gt;
+Moving and living in You.&lt;br /&gt;&lt;br /&gt;
+We remain forgetful,&lt;br /&gt;
+but are not ungrateful.&lt;br /&gt;&lt;br /&gt;
+Relink us, lead us and guide us.&lt;br /&gt;
+Remind us, oh Master Reminder!&lt;br /&gt;</string>
+    <string name="page47">I am light,&lt;br /&gt;
+but in darkness.&lt;br /&gt;&lt;br /&gt;
+I am truth,&lt;br /&gt;
+sunk in the world of untruth.&lt;br /&gt;&lt;br /&gt;
+I am immortal,&lt;br /&gt;
+immersed in the illusion of death and birth.&lt;br /&gt;&lt;br /&gt;
+Absorb the illusion,&lt;br /&gt;
+the darkness of ignorance.&lt;br /&gt;&lt;br /&gt;
+Allow us into Light.&lt;br /&gt;
+Adore You, oh Light of Violet!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page48">Violet Flame!&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Lead us into Your Flame!&lt;br /&gt;
+Leave us not in blame.&lt;br /&gt;
+Suffer us not to the dame.&lt;br /&gt;&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Teach us the skills of the game!&lt;br /&gt;
+Save us from Maya’s tam!&lt;br /&gt;
+Bless us until the needed calm!&lt;br /&gt;</string>
+    <string name="page49">Violet Flame!&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Heal us from the wounds with Violet Balm!&lt;br /&gt;
+We are the prisoners lame!&lt;br /&gt;
+Restore us to the Home of Ram.&lt;br /&gt;&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+We too are sons of God but in shame!&lt;br /&gt;
+We approach You as a team!&lt;br /&gt;
+Tame us to step into the Temple, warm!&lt;br /&gt;&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+Violet Flame!&lt;br /&gt;
+We pray, we kneel down and&lt;br /&gt;
+prostrate at Your Dome.&lt;br /&gt;</string>
+    <string name="page50">Master Saint! We count on You.&lt;br /&gt;
+Master Count! Please do not discount us.&lt;br /&gt;&lt;br /&gt;
+Oh Saint! Paint us Your colour, Violet.&lt;br /&gt;
+Lead us into Your country.&lt;br /&gt;
+Look not into our accounts, oh Count!&lt;br /&gt;
+There are countless errors therein.&lt;br /&gt;&lt;br /&gt;
+Set our sails, oh Saint,&lt;br /&gt;
+reset them, lead us into the saintly county.&lt;br /&gt;
+You are the Master of compassion.&lt;br /&gt;
+You are the Saintly Giant.&lt;br /&gt;&lt;br /&gt;
+You are the Knight, the Count of Violet county.&lt;br /&gt;
+Generous, be generous to the fallen, oh Germain!&lt;br /&gt;
+Master Count, Saint Germain.&lt;br /&gt;</string>
+    <string name="page51">We germinate many desires and diseases,&lt;br /&gt;
+oh Germain.&lt;br /&gt;&lt;br /&gt;
+We generate numerous germs of sickness&lt;br /&gt;
+on the planet, oh Germain.&lt;br /&gt;&lt;br /&gt;
+We pretend to be gentle&lt;br /&gt;
+but tend to be otherwise.&lt;br /&gt;&lt;br /&gt;
+Attend on us, oh Germain.&lt;br /&gt;&lt;br /&gt;
+Radiate Your Pink, Purple, Violet Beams of Light.&lt;br /&gt;&lt;br /&gt;
+Penetrate our personalities.&lt;br /&gt;&lt;br /&gt;
+Prepare us! Prepare us! Prepare us!&lt;br /&gt;</string>
+    <string name="page52">Master!&lt;br /&gt;
+You teach us love,&lt;br /&gt;
+but we are stuck with lust.&lt;br /&gt;&lt;br /&gt;
+You teach us to transform,&lt;br /&gt;
+but we teach without self-transformation.&lt;br /&gt;&lt;br /&gt;
+You teach us to inform,&lt;br /&gt;
+but we teach to influence.&lt;br /&gt;&lt;br /&gt;
+You wish that we
+express dispassionately,&lt;br /&gt;
+but we press and stress our&lt;br /&gt;
+expression passionately.&lt;br /&gt;&lt;br /&gt;
+You teach us rhythm,&lt;br /&gt;
+we reduce it to routine.&lt;br /&gt;&lt;br /&gt;
+You teach us ritual,&lt;br /&gt;
+we turn it to deathly routine!&lt;br /&gt;&lt;br /&gt;
+We learn not to change,&lt;br /&gt;
+yet we learn to teach!&lt;br /&gt;&lt;br /&gt;
+Lift us from the loop.&lt;br /&gt;&lt;br /&gt;
+Lest we turn every way upside down.&lt;br /&gt;
+Radiate the Violet and restore us!&lt;br /&gt;</string>
+    <string name="page53">Prepare us to be&lt;br /&gt;
+the New Group of World Servers.&lt;br /&gt;
+Prepare us, we pray.&lt;br /&gt;&lt;br /&gt;
+Prayer is the single means left to us.&lt;br /&gt;&lt;br /&gt;
+Meditation, we can not.&lt;br /&gt;
+Alignment, we can not.&lt;br /&gt;
+Yoga, we conceive not.&lt;br /&gt;&lt;br /&gt;
+We pray, prepare us !&lt;br /&gt;
+Prepare us !&lt;br /&gt;</string>
+    <string name="page54">The Jaguar at the Temple door&lt;br /&gt;
+seeks our hearts.&lt;br /&gt;&lt;br /&gt;
+We are the timid ones&lt;br /&gt;
+that cannot offer.&lt;br /&gt;&lt;br /&gt;
+We least realise&lt;br /&gt;
+that ‘offering’ is the key.&lt;br /&gt;&lt;br /&gt;
+We are told to seek more and more,&lt;br /&gt;
+but the key is to offer, to offer more.&lt;br /&gt;&lt;br /&gt;
+Turn us brave to offer,&lt;br /&gt;
+offer our hearts and souls to You.&lt;br /&gt;&lt;br /&gt;
+Verily, You are the Jaguar.&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page55">We seek to climb pyramids.&lt;br /&gt;
+We wish to be at the pinnacle of the pyramid.&lt;br /&gt;&lt;br /&gt;
+Seeking and wishing are the blinds.&lt;br /&gt;
+Service and sacrifice are the keys.&lt;br /&gt;&lt;br /&gt;
+Offering all is the ritual.&lt;br /&gt;&lt;br /&gt;
+‘All-offering’ was the key&lt;br /&gt;
+of Munis of the East&lt;br /&gt;
+and Mayans of the West.&lt;br /&gt;&lt;br /&gt;
+Inspire us to offer, offer ourselves!&lt;br /&gt;</string>
+    <string name="page56">Master!&lt;br /&gt;
+We are told that there is a Lion&lt;br /&gt;
+at the threshold of every Temple.&lt;br /&gt;&lt;br /&gt;
+We are also told&lt;br /&gt;
+that there is a dog at the primary entry.&lt;br /&gt;&lt;br /&gt;
+Dog demands alertness,&lt;br /&gt;
+agility and subtle audity.&lt;br /&gt;&lt;br /&gt;
+Lion demands ability,&lt;br /&gt;
+nobility and alignment.&lt;br /&gt;&lt;br /&gt;
+Teach us, train us, tame us,&lt;br /&gt;
+to their needs&lt;br /&gt;
+for entry into the Temple.&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page57">Master!&lt;br /&gt;
+In the world of change,&lt;br /&gt;
+changing loyalties are common.&lt;br /&gt;&lt;br /&gt;
+Ever changing colours and vibrations affect us.&lt;br /&gt;
+Constancy and consistency is the need.&lt;br /&gt;&lt;br /&gt;
+Commend us, command us&lt;br /&gt;
+to be consistent and constant.&lt;br /&gt;&lt;br /&gt;
+You are the Count,&lt;br /&gt;
+we are Your county citizens!&lt;br /&gt;&lt;br /&gt;
+Lead us, please!&lt;br /&gt;</string>
+    <string name="page58">Pyramids are pinnacles of human spirit.&lt;br /&gt;
+Inspiration at its peak&lt;br /&gt;
+led to ‘Tajim’ – the highest offering.&lt;br /&gt;&lt;br /&gt;
+Man offered the flower of soul&lt;br /&gt;
+at the peak of Pyramid.&lt;br /&gt;
+Man turning into Master&lt;br /&gt;
+was the ritual You taught to the brave.&lt;br /&gt;&lt;br /&gt;
+Master! You are the Spirit,&lt;br /&gt;
+You are the Inspiration&lt;br /&gt;
+behind such bravery.&lt;br /&gt;&lt;br /&gt;
+You are the Regent!&lt;br /&gt;</string>
+    <string name="page59">Master!&lt;br /&gt;
+You are the valiant One.&lt;br /&gt;
+You are the Violet Flame&lt;br /&gt;
+Your Violet’s variants are pink and purple.&lt;br /&gt;&lt;br /&gt;
+We are the violent ones,&lt;br /&gt;
+but are not valiant ones.&lt;br /&gt;&lt;br /&gt;
+We are at variance with You.&lt;br /&gt;
+Valour and values are aliens to us.&lt;br /&gt;&lt;br /&gt;
+Lead us Master!&lt;br /&gt;
+Lead us into Your valley, we plead.&lt;br /&gt;&lt;br /&gt;
+Master! We plead.&lt;br /&gt;</string>
+    <string name="page60">Hunger and thirst are&lt;br /&gt;
+the basic needs of the body.&lt;br /&gt;&lt;br /&gt;
+In fulfilment of them we moved too far.&lt;br /&gt;
+The purpose is lost beyond retreat.&lt;br /&gt;&lt;br /&gt;
+Purple and Pink sunk into mundanity.&lt;br /&gt;
+Humans turn humus.&lt;br /&gt;&lt;br /&gt;
+Recover!&lt;br /&gt;
+Resuscitate!&lt;br /&gt;
+Resurrect!&lt;br /&gt;
+Oh Regent of valour,&lt;br /&gt;
+oh Ray of Violet.&lt;br /&gt;</string>
+    <string name="page61">Restore us, Regent, restore us.&lt;br /&gt;
+Restore our bodies to the five elements.&lt;br /&gt;
+Restore our senses to Prachetas.&lt;br /&gt;
+Restore our thoughts to Manu Vaivasvata.&lt;br /&gt;&lt;br /&gt;
+Restitute our personalities&lt;br /&gt;
+to Solomon’s Temple.&lt;br /&gt;
+Let the imprisoned souls integrate&lt;br /&gt;
+with the Super Soul.&lt;br /&gt;&lt;br /&gt;
+Regent, restore us!&lt;br /&gt;
+Regent, restitute us!&lt;br /&gt;
+Regent, integrate us.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+OM OMEN OM&lt;br /&gt;</string>
+    <string name="page62">Master!&lt;br /&gt;
+We are bound.&lt;br /&gt;
+We are bound by our karma.&lt;br /&gt;
+Our past karma is our python.&lt;br /&gt;
+It holds us tight.&lt;br /&gt;&lt;br /&gt;
+It is the Typhon that sweeps away&lt;br /&gt;
+our little wills – the little good will.&lt;br /&gt;&lt;br /&gt;
+We realise that we cannot help ourselves.&lt;br /&gt;
+You are the unbound One&lt;br /&gt;
+to release us from our bondage.&lt;br /&gt;&lt;br /&gt;
+Release! Release! Release!&lt;br /&gt;
+Oh Master Saint Germain.&lt;br /&gt;</string>
+    <string name="page63">Release the Violet Beam of Light.&lt;br /&gt;
+Neutralise the karma.&lt;br /&gt;
+Lift us up unto the Regents of Beauty.&lt;br /&gt;&lt;br /&gt;
+Enable the Kingdom of God upon Earth.&lt;br /&gt;
+Establish Brindawan of Krishna,&lt;br /&gt;
+Eden Garden of Adam,&lt;br /&gt;
+Paradise of Parsians.&lt;br /&gt;&lt;br /&gt;
+Release, neutralise and lift!&lt;br /&gt;
+Oh Master Saint Germain.&lt;br /&gt;</string>
+    <string name="page64">Interludes are entry doors!&lt;br /&gt;
+Entry doors into Violet Kingdom.&lt;br /&gt;&lt;br /&gt;
+Dawn and dusk are daily openers.&lt;br /&gt;
+Sabbaths are weekly openers.&lt;br /&gt;
+Full and new moons are monthly ones.&lt;br /&gt;
+Solstices are half-yearly ones.&lt;br /&gt;
+Inhalation and exhalation are eternal openers.&lt;br /&gt;&lt;br /&gt;
+Occult students!&lt;br /&gt;
+Be subtle enough to experience.&lt;br /&gt;</string>
+    <string name="page65">Violet networking is incessant.&lt;br /&gt;
+Masters cease not to help.&lt;br /&gt;&lt;br /&gt;
+Closed minds receive not.&lt;br /&gt;&lt;br /&gt;
+Globes are closed minds.&lt;br /&gt;
+Lotuses are globes unfolded.&lt;br /&gt;&lt;br /&gt;
+The human minds be unfolded Lotuses,&lt;br /&gt;
+not circumscribed globes.&lt;br /&gt;&lt;br /&gt;
+Master, please circumcise our minds.&lt;br /&gt;</string>
+    <string name="page66">Mental circumcisions are esoteric.&lt;br /&gt;
+Physical circumcisions are exoteric.&lt;br /&gt;
+Inner changes are commended.&lt;br /&gt;&lt;br /&gt;
+Violet Flame! Violet Flame!&lt;br /&gt;
+You are the esoteric surgeon.&lt;br /&gt;
+You are the alchemist.&lt;br /&gt;&lt;br /&gt;
+Help us to ripen from within.&lt;br /&gt;
+Help us to unfold from within to without!&lt;br /&gt;</string>
+    <string name="page67">Men of magic, we are,&lt;br /&gt;
+we hold ceremonial order.&lt;br /&gt;&lt;br /&gt;
+Monday is our day,&lt;br /&gt;
+Moon is our Mother.&lt;br /&gt;
+Exoterically we are white,&lt;br /&gt;
+esoterically violet.&lt;br /&gt;&lt;br /&gt;
+Prana is our force.&lt;br /&gt;
+Divine energy is our principal.&lt;br /&gt;
+Manifestation is our work.&lt;br /&gt;
+Muladhara is our base.&lt;br /&gt;&lt;br /&gt;
+We smell the Plan.&lt;br /&gt;
+Our work is with nose.&lt;br /&gt;
+Men of magic, we are.&lt;br /&gt;
+Kingdom Violet we belong to.&lt;br /&gt;</string>
+    <string name="page68">Men of magic, we are.&lt;br /&gt;
+Magic Temple, we come from.&lt;br /&gt;&lt;br /&gt;
+Synthesis is our ritual.&lt;br /&gt;
+Septanate is our symbol.&lt;br /&gt;&lt;br /&gt;
+‘Sam’ is the sound.&lt;br /&gt;
+‘Kham’ is the source.&lt;br /&gt;&lt;br /&gt;
+Saturn is our strength.&lt;br /&gt;
+Sun is our inspiration.&lt;br /&gt;
+Jupiter is our preceptor.&lt;br /&gt;&lt;br /&gt;
+Men of magic, we are.&lt;br /&gt;
+Magic Temple, we come from!&lt;br /&gt;</string>
+    <string name="page69">Synthesise matter and spirit.&lt;br /&gt;
+Neutralise left and right.&lt;br /&gt;
+Equate high and low.&lt;br /&gt;&lt;br /&gt;
+Visualise the Temple Door.&lt;br /&gt;
+Vitalise the Violet Flame.&lt;br /&gt;
+Walk into My abode.&lt;br /&gt;&lt;br /&gt;
+Harmonise the being.&lt;br /&gt;
+Restitute and restore.&lt;br /&gt;&lt;br /&gt;
+
+                C.S.G.&lt;br /&gt;</string>
+    <string name="page70">Prana passage is Path of pilgrimage.&lt;br /&gt;
+Prana passway is Path to the Temple.&lt;br /&gt;&lt;br /&gt;
+Nasal Path leads to King’s chamber.&lt;br /&gt;
+General Path leads to Lion’s chamber.&lt;br /&gt;&lt;br /&gt;
+Man is the Pyramid.&lt;br /&gt;
+Airy way holds the hidden Path.&lt;br /&gt;&lt;br /&gt;
+Equalise, neutralise Kriya&lt;br /&gt;
+and enter the Temple.&lt;br /&gt;</string>
+    <string name="page71">May the Light of the Soul, hidden by India,&lt;br /&gt;
+be released by the French.&lt;br /&gt;&lt;br /&gt;
+May the Spanish speaking nations&lt;br /&gt;
+disperse the clouds.&lt;br /&gt;&lt;br /&gt;
+May the Chinese indicate the way,&lt;br /&gt;
+while the Italians carve the Path.&lt;br /&gt;&lt;br /&gt;
+May the USA light the way,&lt;br /&gt;
+while the British and the Aussies&lt;br /&gt;
+serve the lighted way.&lt;br /&gt;&lt;br /&gt;
+May the Russians link the lighted ways,&lt;br /&gt;
+while the Germans preserve.&lt;br /&gt;&lt;br /&gt;
+May the Swiss bring down the Global Peace&lt;br /&gt;
+and the Japanese preserve it.&lt;br /&gt;&lt;br /&gt;
+May the Network of Light manifest.&lt;br /&gt;</string>
+    <string name="page72">May order and ceremony prevail.&lt;br /&gt;&lt;br /&gt;
+May the Prana be vitalised.&lt;br /&gt;&lt;br /&gt;
+May the Etheric Forms be stimulated,&lt;br /&gt;
+built and be strengthened.&lt;br /&gt;&lt;br /&gt;
+May the energy and the substance synthesise.&lt;br /&gt;&lt;br /&gt;
+May the group activity give birth to group soul.&lt;br /&gt;&lt;br /&gt;
+May Uranus transfuse to usher in Aquarius.&lt;br /&gt;&lt;br /&gt;
+May the rays merge into Synthesis.&lt;br /&gt;&lt;br /&gt;
+OM AMEN OM&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page73">We invoke, we plead, we pray.&lt;br /&gt;&lt;br /&gt;
+Oh Occultist!&lt;br /&gt;
+Bring forth energy to action.&lt;br /&gt;&lt;br /&gt;
+Oh true Psychic!&lt;br /&gt;
+Initiate and cause expansion of consciousness.&lt;br /&gt;&lt;br /&gt;
+Oh white Magician!&lt;br /&gt;
+Develop and evolve the beings.&lt;br /&gt;&lt;br /&gt;
+Oh Artist of Harmony!&lt;br /&gt;
+Respond, receive and express the Plan.&lt;br /&gt;&lt;br /&gt;
+Oh Scientist of Knowledge!&lt;br /&gt;
+Disperse the mist of beliefs.&lt;br /&gt;&lt;br /&gt;
+Oh ideal Devotee!&lt;br /&gt;
+Transmit, magnetise and elevate.&lt;br /&gt;&lt;br /&gt;
+Oh Ritualist of the New Age!&lt;br /&gt;
+Bring forth the tools, symbols,&lt;br /&gt;
+sounds and colours to restore order.&lt;br /&gt;&lt;br /&gt;
+You are the Seven.&lt;br /&gt;
+Verily the Seven that saves us,&lt;br /&gt;
+the seven-fold ones!&lt;br /&gt;&lt;br /&gt;
+Save us!&lt;br /&gt;
+Save us!&lt;br /&gt;
+Save us!&lt;br /&gt;</string>
+    <string name="page74">Three Times Three years of Manifestation!&lt;br /&gt;
+333 years of Magnificence unfolding freedom.&lt;br /&gt;
+May the Master number 333&lt;br /&gt;
+work out freedom in the 3 planes.&lt;br /&gt;
+We celebrate! We celebrate!&lt;br /&gt;
+We celebrate 2008 AD.&lt;br /&gt;&lt;br /&gt;
+Manifesting Flame Violet!&lt;br /&gt;
+Manifold thanks to You.&lt;br /&gt;
+Mankind greets You in gratefulness.&lt;br /&gt;
+Manifest! Manifest! Manifest!&lt;br /&gt;
+We welcome! We welcome! We welcome
+with hearts open, minds oriented!&lt;br /&gt;&lt;br /&gt;
+Oh, the 3 Masters&lt;br /&gt;
+M – CSG – CVV&lt;br /&gt;
+manifesting Violet Flame!&lt;br /&gt;
+We thank You! We thank You! We thank You!&lt;br /&gt;Mankind greets You in gratefulness.&lt;br /&gt;</string>
+    <string name="page75">Master Jupiter, CVV!&lt;br /&gt;
+You are the Initiator.&lt;br /&gt;&lt;br /&gt;
+Master CSG!&lt;br /&gt;
+You are the Executive.&lt;br /&gt;&lt;br /&gt;
+Master DK!&lt;br /&gt;
+You are the Transmitter.&lt;br /&gt;&lt;br /&gt;
+Master M, KH!&lt;br /&gt;
+You are the Guardian Angels.&lt;br /&gt;&lt;br /&gt;
+You five form the White Dragon&lt;br /&gt;
+that pulls out the humanity&lt;br /&gt;
+from the denizens to the Kings of Beauty.&lt;br /&gt;&lt;br /&gt;
+We bow down&lt;br /&gt;
+in homage and adoration to You!&lt;br /&gt;</string>
+    <string name="page76">Let the Temple of the Lord be built.&lt;br /&gt;&lt;br /&gt;
+Let us invoke the Great Chief&lt;br /&gt;
+of the 7th purpose.&lt;br /&gt;&lt;br /&gt;
+Let Maharshi Kratu preside over&lt;br /&gt;
+the construction along&lt;br /&gt;
+with the lady Kriya.&lt;br /&gt;&lt;br /&gt;
+Let the Great Sons of God&lt;br /&gt;
+of the East, West, South and North&lt;br /&gt;
+take to their thrones with measured paces.&lt;br /&gt;&lt;br /&gt;
+Let the Temple work begin&lt;br /&gt;
+with the doors closed!&lt;br /&gt;</string>
+    <string name="page77">The Light around the Temple&lt;br /&gt;
+is apparently dim.&lt;br /&gt;&lt;br /&gt;
+The Temple is veiled&lt;br /&gt;
+by the spell of Violet.&lt;br /&gt;&lt;br /&gt;
+The Seven (1+3+3) work&lt;br /&gt;
+in Silence.&lt;br /&gt;&lt;br /&gt;
+The Sacred Ritual of Light and Sound,&lt;br /&gt;
+moving and turning in gait and rhythm.&lt;br /&gt;&lt;br /&gt;
+The Sound is in low tone of Silence,&lt;br /&gt;
+while the Light is radiant.&lt;br /&gt;&lt;br /&gt;
+The Alchemists are at work!&lt;br /&gt;
+Wait in patience!&lt;br /&gt;&lt;br /&gt;
+Patience please!&lt;br /&gt;</string>
+    <string name="page78">The Temple work is on!&lt;br /&gt;
+Outer Silence, inner Sound!&lt;br /&gt;
+Outer obscurity, inner Light!&lt;br /&gt;
+Yet sound of life heard, though feebly!&lt;br /&gt;&lt;br /&gt;
+Sons of men enter the Temple one by one!&lt;br /&gt;
+As the Temple door opens and shuts&lt;br /&gt;
+a son of man enters, per eligibility.&lt;br /&gt;&lt;br /&gt;
+The sons of men move in regular steps&lt;br /&gt;
+from corner to corner,&lt;br /&gt;
+until North is reached!&lt;br /&gt;
+Only the central Light is seen,&lt;br /&gt;
+the Seven remain unseen!&lt;br /&gt;</string>
+    <string name="page79">The Temple work is on!&lt;br /&gt;&lt;br /&gt;
+Sons of Men move in circles and squares!&lt;br /&gt;
+Sons of Men move in triangles and circles!&lt;br /&gt;&lt;br /&gt;
+Sounds are uttered forth&lt;br /&gt;
+on the background of Silence.&lt;br /&gt;&lt;br /&gt;
+Colours change from one to another,&lt;br /&gt;
+from dull to bright, until it is all Light!&lt;br /&gt;&lt;br /&gt;
+Regular movements, changing colours,&lt;br /&gt;
+vibrant sounds turn men to masons!&lt;br /&gt;&lt;br /&gt;
+Serve! Serve! Serve!&lt;br /&gt;
+– thus the Voice of Silence heard.&lt;br /&gt;</string>
+    <string name="page80">Right movement in right angles!&lt;br /&gt;&lt;br /&gt;
+Brisk movement in bright ways!&lt;br /&gt;&lt;br /&gt;
+Colour movement in every regular way.&lt;br /&gt;&lt;br /&gt;
+Sounds and symbols signaling Presence!&lt;br /&gt;&lt;br /&gt;
+Seven Seers steering Light seven ways.&lt;br /&gt;&lt;br /&gt;
+Temple work is on!&lt;br /&gt;&lt;br /&gt;
+Temple work goes on, in silence and secrecy,&lt;br /&gt;
+with Service and Sacrifice!&lt;br /&gt;</string>
+    <string name="page81">Atri invokes male – female god.&lt;br /&gt;&lt;br /&gt;
+Bhrigu brings in bright light.&lt;br /&gt;&lt;br /&gt;
+Angiras arranges strength of activity.&lt;br /&gt;&lt;br /&gt;
+Vasishtha holds the balance.&lt;br /&gt;&lt;br /&gt;
+Pulastya externalises the plan of ritual.&lt;br /&gt;&lt;br /&gt;
+Pulaha directs it.&lt;br /&gt;&lt;br /&gt;
+Kratu crystallises for manifestation of light.&lt;br /&gt;&lt;br /&gt;
+Temple work goes on consistently!&lt;br /&gt;</string>
+    <string name="page82">Humans cry for freedom!&lt;br /&gt;
+Free will took away their freedom.&lt;br /&gt;&lt;br /&gt;
+Humans cry for freedom.&lt;br /&gt;
+Least they know&lt;br /&gt;
+that they took away their freedom.&lt;br /&gt;&lt;br /&gt;
+Neither Nature binds nor God.&lt;br /&gt;
+Man binds himself&lt;br /&gt;
+and cries for freedom.&lt;br /&gt;&lt;br /&gt;
+Human cry for freedom is false!&lt;br /&gt;
+The cry is farce.&lt;br /&gt;
+CSG&lt;br /&gt;</string>
+    <string name="page83">Free will is responsibility.&lt;br /&gt;&lt;br /&gt;
+Abuse is man’s vulnerability.&lt;br /&gt;&lt;br /&gt;
+Right use is a possibility.&lt;br /&gt;&lt;br /&gt;
+Discipleship bestows ability.&lt;br /&gt;&lt;br /&gt;
+Utility, unity, subtility, continuity,&lt;br /&gt;
+constitute the key to Liberty!&lt;br /&gt;</string>
+    <string name="page84">Get out of Self-seeking.&lt;br /&gt;&lt;br /&gt;
+Get into Self-offering.&lt;br /&gt;&lt;br /&gt;
+Seeking, knocking, asking dethrones.&lt;br /&gt;&lt;br /&gt;
+Kings offer – beggars seek.&lt;br /&gt;&lt;br /&gt;
+Be a king – be offering.&lt;br /&gt;&lt;br /&gt;
+Turn your Prayers from seeking to offering.&lt;br /&gt;&lt;br /&gt;
+                                      Master M&lt;br /&gt;</string>
+    <string name="page85">Pyramidical altars,&lt;br /&gt;
+High altar of Moraiah,&lt;br /&gt;
+Kings chambers,&lt;br /&gt;
+Temple tops,&lt;br /&gt;
+Mountain peaks,&lt;br /&gt;
+Master’s ashrams –&lt;br /&gt;&lt;br /&gt;
+are places for Self-offering!&lt;br /&gt;
+Other offerings are mockery!&lt;br /&gt;&lt;br /&gt;
+             
+                       Violet Flame&lt;br /&gt;</string>
+    <string name="page86">May the Master in the East&lt;br /&gt;
+awaken the sleeping ones!&lt;br /&gt;&lt;br /&gt;
+May the Warden of the West&lt;br /&gt;
+test, check and try all the aspirants of Light.&lt;br /&gt;&lt;br /&gt;
+May the Guardian of the South&lt;br /&gt;
+instruct and illumine the entrants!&lt;br /&gt;&lt;br /&gt;
+May the Gates of silence open wide&lt;br /&gt;
+to experience the unseen Master!&lt;br /&gt;&lt;br /&gt;
+May the aspirants be led&lt;br /&gt;
+by the welcoming hands&lt;br /&gt;
+and understanding heart of Master.&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page87">Out from the East&lt;br /&gt;
+the note goes forth,&lt;br /&gt;
+“Open the doors to sons of men,&lt;br /&gt;
+who seek the Temple of the Lord.”&lt;br /&gt;&lt;br /&gt;
+Out from the South&lt;br /&gt;
+the command passes through,&lt;br /&gt;
+“Unveil the Temple to the seekers,&lt;br /&gt;
+who are the offerers and servers.”&lt;br /&gt;&lt;br /&gt;
+Out from the West&lt;br /&gt;
+the instruction thunders,&lt;br /&gt;
+“Serve, magnetise, radiate the world!“&lt;br /&gt;&lt;br /&gt;
+“Be creative!&lt;br /&gt;
+Raise the dead to life!&lt;br /&gt;
+Turn the blind to light!”&lt;br /&gt;&lt;br /&gt;
+The Temple work is on.&lt;br /&gt;</string>
+    <string name="page88">Full Moon magic in Monument Valley.&lt;br /&gt;
+Peeping pink flames in Penetentes.&lt;br /&gt;
+Colourful ritual of Colorado Springs.&lt;br /&gt;
+Grand visions of Grand Canyon.&lt;br /&gt;
+Inspiring Violet showers of Iguaçu.&lt;br /&gt;
+Performing Peers of Ameru Peaks.&lt;br /&gt;
+Towering Eagles of Toledo.&lt;br /&gt;
+Flying Anura’s of Nuria.&lt;br /&gt;
+Zealous gestures of Jerusalem.&lt;br /&gt;
+Alpine heights of Alchemy.&lt;br /&gt;&lt;br /&gt;
+Several are Seventh Ray splendours&lt;br /&gt;
+encountered at every Twilight.&lt;br /&gt;&lt;br /&gt;
+Rejoice! Rejoice! Rejoice!&lt;br /&gt;</string>
+    <string name="page89">Magic, Magic Moon, Light Magic!&lt;br /&gt;
+Mystic scientists’ Movement Magic.&lt;br /&gt;&lt;br /&gt;
+Violet Magic in silent Valleys.&lt;br /&gt;&lt;br /&gt;
+Peers magic at Mountain Peaks.&lt;br /&gt;
+Saintly magic of Seven Footers.&lt;br /&gt;&lt;br /&gt;
+Seventh Ray Magic of smiling Seers.&lt;br /&gt;&lt;br /&gt;
+Magic, Magic, Moonlight Magic!&lt;br /&gt;</string>
+    <string name="page90">We count on the Saintly Count.&lt;br /&gt;
+Countless are His valiant deeds.&lt;br /&gt;&lt;br /&gt;
+Violence wanes at His valiance.&lt;br /&gt;
+Slavery sinks in His serene presence.&lt;br /&gt;&lt;br /&gt;
+Freedom springs at His saintly looks.&lt;br /&gt;
+Rhythm and order regain strength.&lt;br /&gt;&lt;br /&gt;
+Ceremonies and rituals trumpet celebrations.&lt;br /&gt;&lt;br /&gt;
+We count, we count, we count&lt;br /&gt;
+on the Master Count,&lt;br /&gt;
+whose Splendour is countless!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page91">Violet is but Indigo.&lt;br /&gt;&lt;br /&gt;
+Indigo is the Father.&lt;br /&gt;
+Blue is the Mother.&lt;br /&gt;
+Violet is the Son!&lt;br /&gt;
+Pink and Purple are the children.&lt;br /&gt;&lt;br /&gt;
+Yellow and Green are the grounds for play.&lt;br /&gt;
+Red and Orange are the life&amp; vitality.&lt;br /&gt;&lt;br /&gt;
+The Temple and the Templars are tactful.&lt;br /&gt;</string>
+    <string name="page92">In seven regular steps&lt;br /&gt;
+the descent and ascent happen.&lt;br /&gt;&lt;br /&gt;
+Seven are the steps for Indigo to turn Violet.&lt;br /&gt;
+We are from Indigo, we are Indigans.&lt;br /&gt;&lt;br /&gt;
+Indigans are Indians&lt;br /&gt;
+of the East, West, South and North –&lt;br /&gt;
+but veiled by names and colours.&lt;br /&gt;&lt;br /&gt;
+We are descendants of Indu*&lt;br /&gt;
+Indu – Indigo – Indigans – Indian – Indwellers !&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page93">Seven are the chambers of the Temple.&lt;br /&gt;
+Seven are the Sounds.&lt;br /&gt;
+Seven are the Colours.&lt;br /&gt;
+Seven are the regular Steps.&lt;br /&gt;
+Seven are the Seers.&lt;br /&gt;
+Seven are the Poles of Light.&lt;br /&gt;
+Seven are the Directions –&lt;br /&gt;
+East, West, South, North, above, below, centre.&lt;br /&gt;
+Seven are the Initiations.&lt;br /&gt;&lt;br /&gt;
+SEVEN TIMES SEVEN THE WHEEL ROTATES !&lt;br /&gt;</string>
+    <string name="page94">Three are males 1-5-7.&lt;br /&gt;
+Three are females 2-4-8.&lt;br /&gt;
+Three are the times 3-6-9.&lt;br /&gt;&lt;br /&gt;
+All emerge from 0&lt;br /&gt;
+and merge into 0.&lt;br /&gt;&lt;br /&gt;
+Zero is full, zero is null.&lt;br /&gt;&lt;br /&gt;
+Temple blooms when full.&lt;br /&gt;&lt;br /&gt;
+Temple hides when Null!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page95">Co-operation,&lt;br /&gt;
+co-ordination,&lt;br /&gt;
+co-relation,&lt;br /&gt;
+cordiality,&lt;br /&gt;
+concurrence,&lt;br /&gt;
+commitment,&lt;br /&gt;
+courage and convictions,&lt;br /&gt;
+are the key notes to the candidate&lt;br /&gt;
+for progress in the Temple.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+                        Violet Flame&lt;br /&gt;</string>
+    <string name="page96">Temple is wide open!&lt;br /&gt;
+Yet hidden in mist.&lt;br /&gt;&lt;br /&gt;
+Hidden mystery interests man&lt;br /&gt;
+but the Temple is hidden in man.&lt;br /&gt;&lt;br /&gt;
+Search in objectivity leads to subjectivity.&lt;br /&gt;
+Subjective Temple tests man’s mental mettle.&lt;br /&gt;&lt;br /&gt;
+Tests of Temple when crossed&lt;br /&gt;
+triumph trumpets!&lt;br /&gt;&lt;br /&gt;
+Temple is wide open.&lt;br /&gt;</string>
+    <string name="page97">Temple work is Alchemy.&lt;br /&gt;&lt;br /&gt;
+Alchemy, man engages with,&lt;br /&gt;
+to turn base metal to Gold!&lt;br /&gt;&lt;br /&gt;
+But alchemy applied to Self&lt;br /&gt;
+turns son of man to be Son of God.&lt;br /&gt;&lt;br /&gt;
+Son of God is Golden,&lt;br /&gt;
+– even Diamantine.&lt;br /&gt;
+Diamantine Temple is&lt;br /&gt;
+– but Solomon’s Temple!&lt;br /&gt;</string>
+    <string name="page98">Eagle that soars high,&lt;br /&gt;
+leads the Initiation.&lt;br /&gt;&lt;br /&gt;
+Bull that roars,&lt;br /&gt;
+sounds initiations.&lt;br /&gt;&lt;br /&gt;
+Crocodiles turn Turtles.&lt;br /&gt;
+Turtles learn to fly like birds.&lt;br /&gt;&lt;br /&gt;
+Birds tend to be Peacocks.&lt;br /&gt;
+Peacocks proceed to be Eagles.&lt;br /&gt;&lt;br /&gt;
+Eagle’s mount is Lord’s seat&lt;br /&gt;
+to move, to bless, to protect, to illumine.&lt;br /&gt;</string>
+    <string name="page99">The Dog at the Temple watches the door.&lt;br /&gt;
+The Master’s Lion stares and steers the entrants.&lt;br /&gt;
+The Polar Bear moves dancing round.&lt;br /&gt;&lt;br /&gt;
+The Eagle at the roof watches around.&lt;br /&gt;
+No thief and rogue dares to enter.&lt;br /&gt;&lt;br /&gt;
+Three Maidens bless gently.&lt;br /&gt;
+All-seeing Eye observes all.&lt;br /&gt;&lt;br /&gt;
+Temple work goes on in silence!&lt;br /&gt;</string>
+    <string name="page100">Circles are drawn, Triangles are formed.&lt;br /&gt;
+Squares are built, Stars are gild.&lt;br /&gt;
+Hexagons unfold, Octagons reveal.&lt;br /&gt;&lt;br /&gt;
+Lights dance, Sounds sing.&lt;br /&gt;
+Movements bring, Violet springs.&lt;br /&gt;
+Entrants swing, forming rings.&lt;br /&gt;&lt;br /&gt;
+Temple work is but tempting work.&lt;br /&gt;
+Temple work is joy and bliss.&lt;br /&gt;
+Join Temple, enjoy bliss.&lt;br /&gt;&lt;br /&gt;
+Temple work goes on and on!&lt;br /&gt;</string>
+    <string name="page101">Great Grand Master!&lt;br /&gt;
+Pick up the tools and sculpture (living) stones.&lt;br /&gt;&lt;br /&gt;
+Carve us deep, construct shape.&lt;br /&gt;
+Fill in Love, Wisdom, Will.&lt;br /&gt;&lt;br /&gt;
+Build us well, blend us full,&lt;br /&gt;
+willing to bend, we remain to the end.&lt;br /&gt;&lt;br /&gt;
+Be our centre, taking to East.&lt;br /&gt;
+Bend us all to the Will of God.&lt;br /&gt;&lt;br /&gt;
+Pick up tools, Master shape us well!&lt;br /&gt;</string>
+    <string name="page102">Victorious Violet Flame,&lt;br /&gt;
+You soar high to the Lotus feet of Cosmic Lord.&lt;br /&gt;&lt;br /&gt;
+You dive down from the Divine plane&lt;br /&gt;
+to lift us up.&lt;br /&gt;&lt;br /&gt;
+Seven are the planes to the feet of the Lord
+and seven are Your Flames.&lt;br /&gt;&lt;br /&gt;
+Flames, enflame us plane by plane.&lt;br /&gt;&lt;br /&gt;
+Dive down for us, soar high,&lt;br /&gt;
+lifting us.&lt;br /&gt;&lt;br /&gt;
+We orient to You, Violet Flame.&lt;br /&gt;</string>
+    <string name="page103">Master builder!&lt;br /&gt;
+Your know-how to build is a Beauty.&lt;br /&gt;&lt;br /&gt;
+You build Temple of Beauty,&lt;br /&gt;
+using colours bright and clear.&lt;br /&gt;&lt;br /&gt;
+You reveal the Temple of inner Beauty&lt;br /&gt;
+that revives the dead.&lt;br /&gt;
+You rebuild the forms anew.&lt;br /&gt;&lt;br /&gt;
+You are the Guardian of the World&lt;br /&gt;
+and of the WORD.&lt;br /&gt;&lt;br /&gt;
+Impart the WORD and save the world.&lt;br /&gt;&lt;br /&gt;
+Master builder!&lt;br /&gt;
+Cease not building.&lt;br /&gt;</string>
+    <string name="page104">Master!&lt;br /&gt;&lt;br /&gt;
+You are the unveiling Magician.&lt;br /&gt;
+You are the Master of magical Art.&lt;br /&gt;&lt;br /&gt;
+Move the magic wand to transform.&lt;br /&gt;&lt;br /&gt;
+You hold the Magic Word.&lt;br /&gt;
+You are the Key to the Mysteries.&lt;br /&gt;&lt;br /&gt;
+We bow down in homage and adoration&lt;br /&gt;
+to You.&lt;br /&gt;</string>
+    <string name="page105">Master please:&lt;br /&gt; &lt;br /&gt;
+Reveal the Beauty,&lt;br /&gt;
+express the Will Divine,&lt;br /&gt;
+unify the Fires in us,&lt;br /&gt;
+orient our forces to the Light!&lt;br /&gt;&lt;br /&gt;
+Master!&lt;br /&gt;&lt;br /&gt;
+May Your mighty Sword&lt;br /&gt;
+initiate Alchemy in us, your subjects.&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="page106">Feed the Sacred Fire, Master!&lt;br /&gt;
+Feed us.&lt;br /&gt;&lt;br /&gt;
+Bestow the Will of the 1st Lord.&lt;br /&gt;&lt;br /&gt;
+Unfold the Wisdom of the 2nd Lord.&lt;br /&gt;&lt;br /&gt;
+Impart the Intelligence of the 3rd Lord.&lt;br /&gt;&lt;br /&gt;
+Feed the related fire, Master!&lt;br /&gt;
+Feed us!&lt;br /&gt;&lt;br /&gt;
+Fed up we are, of conflict,&lt;br /&gt;
+crystallisations and&lt;br /&gt;
+contradicting beliefs.&lt;br /&gt;&lt;br /&gt;
+Feed us full – Fulfil us.&lt;br /&gt;</string>
+    <string name="page107">Feed us the fires, seven times.&lt;br /&gt;
+Lead us to Synthesis.&lt;br /&gt;&lt;br /&gt;
+We learn, You form a triangle&lt;br /&gt;
+with Master Jupiter and Master M&lt;br /&gt;
+to lead us unto Synthesis.&lt;br /&gt;&lt;br /&gt;
+We hear that You form a triangle&lt;br /&gt;
+with Master KH and Master of mental clarity.&lt;br /&gt;&lt;br /&gt;
+We are told, You build a triangle&lt;br /&gt;
+with Master DK and Master Jesus.&lt;br /&gt;&lt;br /&gt;
+Compassionate that You are&lt;br /&gt;
+You build triple triangle and&lt;br /&gt;
+transport us beyond the three worlds&lt;br /&gt;
+to settle us in Synthesis.&lt;br /&gt;&lt;br /&gt;
+Feed us Fire Master, feed us,&lt;br /&gt;
+we are hungry for Fire.&lt;br /&gt;&lt;br /&gt;
+Satiate us!&lt;br /&gt;
+Satiate us!&lt;br /&gt;
+Master, satiate us!&lt;br /&gt;</string>
+    <string name="page108">We salute You Master,&lt;br /&gt;
+we salute You!&lt;br /&gt;&lt;br /&gt;
+We are never satiated&lt;br /&gt;
+in our praise of You.&lt;br /&gt;&lt;br /&gt;
+Nevertheless,&lt;br /&gt;
+we offer these flowers&lt;br /&gt;
+at Your fragrant Feet.&lt;br /&gt;&lt;br /&gt;
+Your Feet lead us&lt;br /&gt;
+to the Lotus Feet&lt;br /&gt;
+of Cosmic Lord, Purusha.&lt;br /&gt;&lt;br /&gt;
+Feel the flowers Master.&lt;br /&gt;
+Accept our offers!&lt;br /&gt;&lt;br /&gt;</string>
+    <string name="composer">Dr. Sri K. Parvathi Kumar has been teaching various concepts of wisdom and initiating many groups into the Path of Yoga of Synthesis in India, Europe, Latin America and North America. His teachings are many and varied. They are ori- ented for practice and are not mere information.&lt;br /&gt;&lt;br /&gt;Dr. Sri K. Parvathi Kumar has been honoured by the Andhra University with the title Doctor of Letters Honoris Causa, D. Lit. for all his achievements as a teacher around the world. He works actively in the economic, social and cultural fields with spirituality as the basis. He says that the spiritual practices are of value only if such practices contribute to the economic, cultural, and social welfare of humanity.&lt;br /&gt;&lt;br /&gt;Dr. Sri K. Parvathi Kumar is a responsible householder, a professional consultant, a teacher of wisdom, healer of a cer- tain order, and is a composer of books. He denies to himself the title of being an author, since according to him, “Wisdom belongs to none and all belong to Wisdom”.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;The Publisher</string>
+    <string name="intro">Violet is the colour and the world into which the humanity walks through initiation. It is the Kingdom of God, called by such names as Eden Garden, Paradise, Devachan, Su- permundane and so on. The Violet Flame relates to the 7th ray of Swaraj. Swaraj stands for self rule. Self rule demands discipleship. There are aspirants all around the globe who follow the discipline to be disciples and who endeavour to rule themselves.&lt;br /&gt; Self-rule is governed by 7th ray and 7th ray functions through Violet Flame. Violet Flame is worshiped in all the subtle Temples of 7th ray in all the four corners of the globe.&lt;br /&gt;The Violet Ray inaugurated its activity in this cycle, in the year 1675 AD. The work is subtly taking place and many are introduced to the functioning of the Violet Flame. Eso- teric temples are becoming active, transmitting their pres- ence to the seeker all around.&lt;br /&gt;333 years of work are accomplished by this year 2008. In celebration of a grand work a few invocations are given out to the ardent seeker of 7th ray activity.&lt;br /&gt; K. Parvathi Kumar, 29.01.2008</string>
+
+</resources>

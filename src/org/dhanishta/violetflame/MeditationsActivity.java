@@ -3,6 +3,8 @@ package org.dhanishta.violetflame;
 import java.util.Random;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
@@ -16,9 +18,11 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MeditationsActivity extends Activity implements SwipeInterface {
 
@@ -131,12 +135,15 @@ public class MeditationsActivity extends Activity implements SwipeInterface {
 			intent.putExtra("menu", "intro");
 			startActivity(intent);
 			break;
+		case R.id.random:
+			RandomFlow();
+			break;
+		case R.id.go_to_page:
+			SpecificPageFlow();
+			break;
 
 		case R.id.share:
 			Share();
-			break;
-		case R.id.random:
-			RandomFlow();
 			break;
 
 		}
@@ -187,6 +194,47 @@ public class MeditationsActivity extends Activity implements SwipeInterface {
 		editor.commit();
 
 		SetPageText();
+	}
+
+	public void SpecificPageFlow() {
+		AlertDialog.Builder alert = new AlertDialog.Builder(this);
+
+		alert.setTitle("Meditations");
+		alert.setMessage("Which page do you want to go?");
+
+		final EditText input = new EditText(this);
+		alert.setView(input);
+
+		alert.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				int value = Integer.parseInt(input.getText().toString());
+
+				SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+
+				Editor editor = settings.edit();
+				editor.putInt("page", value);
+				editor.commit();
+
+				SetPageText();
+
+			}
+		});
+
+		alert.setNegativeButton("Cancel",
+				new DialogInterface.OnClickListener() {
+
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.cancel();
+					}
+				});
+
+		AlertDialog alertDialog = alert.create();
+
+		alertDialog.show();
+
 	}
 
 	public View.OnClickListener NextPage = new View.OnClickListener() {

@@ -7,10 +7,14 @@
         android:id="@+id/menu_book"
         android:title="@string/menu_settings_two"/>
     <item
-        android:id="@+id/share"
-        android:title="@string/share_button_text"/>
-    <item
         android:id="@+id/random"
         android:title="@string/random_button_text"/>
+    <item
+        android:id="@+id/go_to_page"
+        android:title="@string/go_to_page">
+    </item>
+    <item
+        android:id="@+id/share"
+        android:title="@string/share_button_text"/>
 
 </menu>

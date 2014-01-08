@@ -15,8 +15,9 @@
     <string name="forward_button_text">forward</string>
     <string name="backward_button_text">back</string>
     <string name="bookmark_button_text">bookmark</string>
-    <string name="share_button_text">share</string>
-    <string name="random_button_text">random</string>
+    <string name="share_button_text">Share</string>
+    <string name="random_button_text">Random Meditation Generator</string>
+    <string name="go_to_page">Go To Specific Page</string>
     <string name="page1">I am the Violet Flame&lt;br /&gt;in me the Flame is in action.&lt;br /&gt;&lt;br /&gt;
 I am the Violet Flame&lt;br /&gt;to the Light alone I bow down.&lt;br /&gt;&lt;br /&gt;I am the Violet Flame&lt;br /&gt;I blaze like the Sun.&lt;br /&gt;
 &lt;br /&gt;I am the Light of God&lt;br /&gt;I shine forth ever, forever.&lt;br /&gt;&lt;br /&gt;I am the sacred Power of God.&lt;br /&gt;
